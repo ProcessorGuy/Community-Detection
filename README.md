@@ -316,6 +316,6 @@ int main() {
 -  For every dataset, we determine minimum size of community. Based on the this value, results could be different. If we want to test football dataset, we need to comment out the block of dataset-karate. And toggle comment with dataset-football. Then we need to run the code as many times that we want to. The result of communities will not be changed, however, the time taken by algorithm could be vary depending on your hardware and running application in your PC.
 
 
-![](algorithm12.png)
+![](algorithm.png)
 
 You can anlyze how the algorithm works by looking above figure.
